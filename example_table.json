@@ -1,0 +1,23 @@
+{
+  "name": "id",
+  "comment": "",
+  "dataType": "VARCHAR",
+  "default": "",
+  "option": {
+    "autoIncrement": false,
+    "primaryKey": true,
+    "unique": true,
+    "notNull": true
+  },
+  "ui": {
+    "active": false,
+    "pk": true,
+    "fk": false,
+    "pfk": false,
+    "widthName": 60,
+    "widthComment": 60,
+    "widthDataType": 60,
+    "widthDefault": 60
+  },
+  "id": "CTRL+P --> ext install netcorext.uuid-generator && CTRL+SHIFT+P --> Generate UUID"
+}
